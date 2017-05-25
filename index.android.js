@@ -114,6 +114,7 @@ export default class RNDemo extends Component {
           To get started, edit index.android.js
         </Text>
         <Image source={pic} style={{width:100,height:100}}></Image>
+        <Image source={require('./images/icon-logo.png')} style={{width:100,height:100}}></Image>
 
           <Blink text="显示和隐藏"/>
         <FlexDirectionBasics ></FlexDirectionBasics>
