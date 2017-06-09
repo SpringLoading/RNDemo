@@ -1,2 +1,2 @@
 # RNDemo
-第一个React Native项目
+官方推荐的React-Navigation使用案例
